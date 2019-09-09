@@ -1,0 +1,43 @@
+<resources>
+    <string name="app_name">NewM - Teste Android</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Eduardo Viana Pessoa</string>
+    <string name="nav_header_subtitle">eduardo.vianap@gmail.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Configurações</string>
+
+    <string name="menu_customer">Clientes</string>
+    <string name="menu_customer_add">Novo Cliente</string>
+    <string name="menu_info">Sobre</string>
+    <string name="menu_exit">Sair</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="observacao">Observação</string>
+    <string name="endereco">Endereço</string>
+    <string name="email">E-mail</string>
+    <string name="celular">Celular</string>
+    <string name="cpf">CPF</string>
+    <string name="nascimento">Nascimento</string>
+    <string name="nome">Nome</string>
+    <string name="salvar">Salvar</string>
+    <string name="cadastrar_cliente">Cadastrar Cliente</string>
+    <string name="lista_clientes">Lista de Clientes</string>
+    <string name="nome_obrigatorio">Nome obrigatório!</string>
+    <string name="data_obrigatorio">Data obrigatória!</string>
+    <string name="cpf_obrigatorio">CPF obrigatório!</string>
+    <string name="celular_obrigatorio">Celular obrigatório!</string>
+    <string name="email_obrigatorio">Email obrigatório!</string>
+    <string name="endereco_obrigatorio">Endereço obrigatório!</string>
+    <string name="cpf_invalido">CPF Inválido!</string>
+    <string name="nome_invalido">Nome não pode conter caracteres especiais!</string>
+    <string name="lbl_nome">Nome:</string>
+    <string name="lbl_email">Email:</string>
+    <string name="til_cpf">CPF:</string>
+    <string name="til_celular">Celular:</string>
+    <string name="til_nascimento">Dt. Nascimento:</string>
+    <string name="til_endereco">Endereço:</string>
+    <string name="hint_search">Filtre por nome ou e-mail...</string>
+    <string name="img_search_desc">Botão para filtrar por nome ou email do cliente.</string>
+</resources>
